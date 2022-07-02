@@ -20,7 +20,12 @@ A Data engineer and front-end web developer with a background in Computer Scienc
 * 🚀  I'm currently working on [Tenx app](https://tenx.10academy.org)
 * 🤝  I'm open to collaborating on Machine learning, Data security, Front-End Web development
 
- 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kibru_bereket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bereket-kibru-b25234137/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
+
  ## My Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bereketkibru&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=bereketkibru&count_private=true&theme=buefy&showicons=true)
