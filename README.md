@@ -6,6 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer and Front-End Web Developer
 -----------------------------------------
 
+<br>
+
+<p align = "center"><img src="./giphy.gif" alt="Bereket Kibru" width = "400px" height = "400px"/></p>
+
+<br>
+
 A Data engineer and front-end web developer with a background in Computer Science and System Engineering. I am proficient in Data Preprocessing, Data Visualization, and EDA. And I am working in React, Redux, Antd, and strapi as a front-end Engineer.
 
 * 🌍  I'm based in Ethiopia
@@ -32,7 +38,7 @@ A Data engineer and front-end web developer with a background in Computer Scienc
 
 [![Bereket's github activity graph](https://activity-graph.herokuapp.com/graph?username=bereketkibru&theme=dracula)](https://github.com/bereketkibru/github-readme-activity-graph)
 
-- [My Github skyline](https://skyline.github.com/bereketkibru/2021)
+- [My Github skyline](https://skyline.github.com/bereketkibru/2022)
 
 
 
