@@ -13,7 +13,7 @@ A Data engineer and front-end web developer with a background in Computer Scienc
 * ✉️  You can contact me at [bekakibru2@gmail.com](mailto:bekakibru2@gmail.com)
 * 🚀  I'm currently working on [Tenx app](https://tenx.10academy.org)
 * 🤝  I'm open to collaborating on Machine learning, Data security, Front-End Web development
- ```
+
  
  ## My Stats
 
@@ -33,3 +33,13 @@ A Data engineer and front-end web developer with a background in Computer Scienc
 [![Bereket's github activity graph](https://activity-graph.herokuapp.com/graph?username=bereketkibru&theme=dracula)](https://github.com/bereketkibru/github-readme-activity-graph)
 
 - [My Github skyline](https://skyline.github.com/bereketkibru/2021)
+
+
+
+**Thanks for Stopping by and visiting!! 😊**
+
+<p align="center">
+
+⭐️ [BereketKibru](https://github.com/bereketkibru)
+
+</p>
