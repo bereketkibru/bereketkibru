@@ -17,7 +17,6 @@ A Data engineer and front-end web developer with a background in Computer Scienc
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [https://sites.google.com/view/bereket-kibru](http://sites.google.com/view/bereket-kibru)
 * ✉️  You can contact me at [bekakibru2@gmail.com](mailto:bekakibru2@gmail.com)
-* 🚀  I'm currently working on [Tenx app](https://tenx.10academy.org)
 * 🤝  I'm open to collaborating on Machine learning, Data security, Front-End Web development
 
  <h3 align="left">Connect with me:</h3>
